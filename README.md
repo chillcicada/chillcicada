@@ -2,7 +2,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=chillcicada&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
-### Hi there, I'm [ChillCicada](https://chillcicada.com) / 寒蝉. 👋
+### Hi there, I'm [ChillCicada](https://chillcicada.com/about/) / 寒蝉. 👋
 
 In most cases, you can call me as **cc** or **chillcicada** in the Internet. Also you can call me as **hanchan** in Mandarin.
 
@@ -10,6 +10,7 @@ I'm an ordinary college student in China. And I'm mastering in **Chemical engine
 
 - I'm currently mainly doing some front-end programming and learning.
 - I like writing some guides and archives to help learners.
+- I like coding and I'm keeping learning new things.
 - ...
 
-For more information about me, please visit my [personal blog](https://chillcicada.com). If you have some questions or just to talk with me, you can contact me in this [page](https://github.com/chillcicada/chillcicada/issues).
+For more information about me, please visit my [personal blog](https://chillcicada.com). If you have some questions or just want to talk with me, you can contact me in this [page](https://github.com/chillcicada/chillcicada/issues) or in my [blog](https://chillcicada.com/chat/).

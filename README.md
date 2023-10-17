@@ -15,3 +15,13 @@ I'm an ordinary college student in China. And I'm mastering in **Chemical engine
 - ...
 
 For more information about me, please visit my [personal blog](https://chillcicada.com). If you have some questions or just want to talk with me, you can contact me in this [page](https://github.com/chillcicada/chillcicada/issues) or in my [blog](https://chillcicada.com/chat/).
+
+My coding data collected by [Wakatime](https://wakatime.com/):
+
+<figure align="center">
+  <embed src="https://wakatime.com/share/@018b2987-2ecc-45d3-9469-0a8572bb2e32/508737a6-3151-4ad1-8d0a-f48c653149fc.svg"></embed>
+</figure>
+
+<figure align="center">
+  <embed src="https://wakatime.com/share/@018b2987-2ecc-45d3-9469-0a8572bb2e32/508737a6-3151-4ad1-8d0a-f48c653149fc.svg"></embed>
+</figure>

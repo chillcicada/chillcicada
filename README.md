@@ -18,13 +18,13 @@ For more information about me, please visit my [personal blog](https://chillcica
 
 My coding data collected by [Wakatime](https://wakatime.com/):
 
-<div>
+<div align="center">
   <figure align="center">
-    <embed src="https://wakatime.com/share/@018b2987-2ecc-45d3-9469-0a8572bb2e32/508737a6-3151-4ad1-8d0a-f48c653149fc.svg"></embed>
+  <img src="https://wakatime.com/share/@018b2987-2ecc-45d3-9469-0a8572bb2e32/508737a6-3151-4ad1-8d0a-f48c653149fc.svg" />
   </figure>
 </div>
-<div>
+<div align="center">
   <figure>
-    <embed src="https://wakatime.com/share/@018b2987-2ecc-45d3-9469-0a8572bb2e32/985ca228-831a-4cf7-8050-388082b573b5.svg"></embed>
+  <img src="https://wakatime.com/share/@018b2987-2ecc-45d3-9469-0a8572bb2e32/985ca228-831a-4cf7-8050-388082b573b5.svg" />
   </figure>
 </div>

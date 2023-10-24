@@ -21,12 +21,7 @@ For more information about me, please visit my [personal blog](https://chillcica
 My coding data collected by [Wakatime](https://wakatime.com/) since 2023/10/13
 
 <div align="center">
-  <figure align="center">
-  <img src="https://wakatime.com/share/@018b2987-2ecc-45d3-9469-0a8572bb2e32/508737a6-3151-4ad1-8d0a-f48c653149fc.svg" />
-  </figure>
-</div>
-<div align="center">
   <figure>
-  <img src="https://wakatime.com/share/@018b2987-2ecc-45d3-9469-0a8572bb2e32/985ca228-831a-4cf7-8050-388082b573b5.svg" />
+  <img src="https://wakatime.com/share/@018b2987-2ecc-45d3-9469-0a8572bb2e32/c359625c-dd67-4163-a3e5-c1549b107769.svg" />
   </figure>
 </div>

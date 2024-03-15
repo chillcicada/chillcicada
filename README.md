@@ -1,8 +1,8 @@
-|![chillcicada's Stats](https://github-readme-stats.vercel.app/api?username=chillcicada&hide_title=true&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)|![chillcicada's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chillcicada&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)|
+|![chillcicada's Stats](https://github-readme-stats-chillcicada.vercel.app/api?username=chillcicada&hide_title=true&theme=transparent&show_icons=true&hide_border=true&count_private=true)|![chillcicada's Top Languages](https://github-readme-stats-chillcicada.vercel.app/api/top-langs/?username=chillcicada&theme=transparent&show_icons=true&hide_border=true&layout=compact)|
 |:-:|:-:|
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chillcicada&theme=tokyonight&layout=compact&hide_border=true&range=last_7_days" />
+  <img src="https://github-readme-stats-chillcicada.vercel.app/api/wakatime?username=chillcicada&theme=transparent&layout=compact&hide_border=true&range=last_7_days" />
 </div>
 
 ### Hi there, I'm [ChillCicada](https://chillcicada.com/about/) / 寒蝉. 👋

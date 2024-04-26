@@ -16,6 +16,14 @@ I'm an ordinary college student in China. And I'm mastering in **Chemical engine
 - I like coding and I'm keeping learning new things.
 - ...
 
-For more information about me, please visit my [personal blog](https://chillcicada.com). If you have some questions or just want to talk with me, you can contact me in this [page](https://github.com/chillcicada/chillcicada/issues) or in my [blog](https://chillcicada.com/chat/).
+For more information about me, please visit my personal [blog](https://chillcicada.com). If you have some questions or just want to talk with me, you can contact me in this [page](https://github.com/chillcicada/chillcicada/issues).
 
 A true trash.
+
+### Fun Gadgets
+
+visit count (since 2024-04-26):
+
+<div align="center">
+  <img src="https://count.getloli.com/get/@chillcicada?theme=gelbooru" />
+</div>

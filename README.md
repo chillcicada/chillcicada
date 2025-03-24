@@ -2,7 +2,7 @@
 |:-:|:-:|
 
 <div align="center">
-  <a href="https://wakatime.com/@chillcicada" rel="nofollow"><img src="https://github-readme-stats-chillcicada.vercel.app/api/wakatime?username=chillcicada&theme=transparent&layout=compact&hide_border=true&range=last_7_days" /></a>
+  <a href="https://wakatime.com/@chillcicada" rel="nofollow"><img src="https://github-readme-stats-chillcicada.vercel.app/api/wakatime?username=chillcicada&theme=transparent&layout=compact&hide_border=true&range=last_7_days&hide=other" /></a>
 </div>
 
 ### Hi there, I'm [ChillCicada](https://chillcicada.com/about/) / 寒蝉. 👋

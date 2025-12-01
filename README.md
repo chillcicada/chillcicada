@@ -4,13 +4,5 @@ I'm an ordinary college student in China, mastering in **Chemical engineering an
 |:-:|:-:|
 
 <div align="center">
-  <a href="https://wakatime.com/@chillcicada" rel="nofollow"><img src="https://github-readme-stats-chillcicada.vercel.app/api/wakatime?username=chillcicada&theme=transparent&layout=compact&hide_border=true&range=last_7_days&hide=other" /></a>
-</div>
-
-## Fun Gadgets
-
-visit count (since 2024-04-26):
-
-<div align="center">
-  <img src="https://count.getloli.com/get/@chillcicada?theme=gelbooru" />
+  <a href="https://wakatime.com/@chillcicada" rel="nofollow"><img src="https://github-readme-stats-chillcicada.vercel.app/api/wakatime?username=chillcicada&theme=transparent&layout=compact&hide_border=true&range=last_7_days&hide=other" alt="wakatime chart" /></a>
 </div>

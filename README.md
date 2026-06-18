@@ -9,7 +9,7 @@ An ordinary college student in China, mastering in **Chemical engineering and te
 
 ---
 
-**I'm working on my undergraduate thesis, and slow to reply.** At the moment, I'm interested in below things:
+At the moment, I'm interested in below things:
 
 - DevOps & Linux, mainly involving [Nix/NixOS/Nixpkgs](https://nixos.org/).
 - Typset, I'm using [Typst](https://typst.app/) and maintaining the [THU thesis template](https://typst.app/universe/package/tntt) for my thesis.

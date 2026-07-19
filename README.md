@@ -1,5 +1,3 @@
-An ordinary college student in China, not a professional programmer.
-
 |![chillcicada's Stats](https://github-readme-stats-chillcicada.vercel.app/api?username=chillcicada&hide_title=true&theme=transparent&show_icons=true&hide_border=true&count_private=true)|![chillcicada's Top Languages](https://github-readme-stats-chillcicada.vercel.app/api/top-langs/?username=chillcicada&theme=transparent&show_icons=true&hide_border=true&layout=compact)|
 |:-:|:-:|
 
